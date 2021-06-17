@@ -1,4 +1,4 @@
-=== YFAQ ===
+# YFAQs WP FAQ Plugin
 Tags: WP Plugin, FAQ Plugin, Responsive FAQ Plugin
 Requires at least: 5.0
 Tested up to: 5.7.2
