@@ -1,8 +1,12 @@
 # YFAQs WP FAQ Plugin
 Tags: WP Plugin, FAQ Plugin, Responsive FAQ Plugin
+
 Requires at least: 5.0
+
 Tested up to: 5.7.2
+
 Requires PHP: 7.4
+
 Stable tag: 1.0.0
 
 ## YFAQS FAQ provides an easy way to add FAQ items to your WP website.
