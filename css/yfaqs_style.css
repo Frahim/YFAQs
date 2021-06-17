@@ -1,0 +1,40 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+section.innerpage.faqtext_sec { margin-bottom: 30px;}
+div#faqcontent {margin-top: 30px;}
+.faq-single {margin-bottom: 28px;}
+.answer .quize-titl{ font-weight: 400;padding: 10px;}
+.wel-content-mobo img {max-width: 100%;}
+.wlqvedio iframe {width: 100%; height:944px;}
+.faq-cat{background:#f1f3f2;}
+.faq-title .quize-titl {font-weight: 600;padding-left: 25px; font-size: 20px; padding:10px 24px 10px 16px;}
+
+.footer-add-sec{color: #fff}
+.collapsible{position: relative;}
+.collapse-open{background:#f5f5f5; color:#313131;}
+.collapse-close{border: 1px solid  #f1f1f1;}
+.collapse-open .faqarrow{ border-top-left-radius: 19px;}
+
+.collapse-open span.faqicon{border-top-left-radius: 19px; padding: 20px; position: absolute;top: 5px; left: 10px;}
+.collapse-close span.faqicon{ padding: 20px; position: absolute; top: 5px; left: 10px;}
+.answer {padding:0 15px 15px; }
+.collapse-open .faqarrow, .collapse-close .faqarrow{padding:18px 15px; position: absolute;top:0px; right: 0;}
+.collapse-open span.faqarrow:after {  font: normal normal normal 18px/1 FontAwesome;}
+.collapse-close span.faqarrow:after { font: normal normal normal 18px/1 FontAwesome;}
+.collapse-close span.count, .collapse-open span.count{padding: 28px; position: absolute; top: -14px; left: 0; font-weight: 600;}
+
+.footerlogo a {display: block;}
+
+.footer-add-sec.footer-seccomon{text-align: center; padding: 100px 0;}
+
+.faqcat-title {
+    margin-bottom: 30px;
+    background: #454a4e;
+    color: #fff;
+    padding: 15px;
+    font-size: 23px;
+    font-weight: 600;
+}
